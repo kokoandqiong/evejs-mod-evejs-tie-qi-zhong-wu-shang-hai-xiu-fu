@@ -5,7 +5,7 @@
     "name": "珊瑚中的吃虎鱼"
   },
   "category": "装备",
-  "changelog": "",
+  "changelog": "1修复了铁骑舰载机航母距离加成丢失的bug，注意：面板显示的距离是前端UIbug。",
   "conflicts": [],
   "delisted": false,
   "description": "修复铁骑射程判定不一致（22km 点 F1 被拒/绿圈闪）、补齐 17 艘旗舰缺失的 fighterTubes、伤害乘数按满编中队规模计算",
@@ -14,7 +14,7 @@
     {
       "mirror": "github",
       "priority": 1,
-      "url": "https://github.com/kokoandqiong/evejs-mod-evejs-tie-qi-zhong-wu-shang-hai-xiu-fu/releases/download/v1.0.3/evejs-tie-qi-zhong-wu-shang-hai-xiu-fu-1.0.3.zip"
+      "url": "https://github.com/kokoandqiong/evejs-mod-evejs-tie-qi-zhong-wu-shang-hai-xiu-fu/releases/download/v1.0.4/evejs-tie-qi-zhong-wu-shang-hai-xiu-fu-1.0.4.zip"
     }
   ],
   "evejsVersions": [
@@ -32,11 +32,11 @@
   ],
   "repo": "https://github.com/kokoandqiong/evejs-mod-evejs-tie-qi-zhong-wu-shang-hai-xiu-fu",
   "requiresRestart": true,
-  "sha256": "cfd82723e9b00906a5236eae3e3c26a6d8ec67d79d402ff064244dd6087e34c2",
-  "sizeBytes": 37564,
+  "sha256": "187ce601d4bcc7f30204cf19c4aa43c70b76f413ace20b5056efe75fdc2ca26e",
+  "sizeBytes": 39592,
   "tags": [
     "聊天",
     "新手"
   ],
-  "version": "1.0.3"
+  "version": "1.0.4"
 }
