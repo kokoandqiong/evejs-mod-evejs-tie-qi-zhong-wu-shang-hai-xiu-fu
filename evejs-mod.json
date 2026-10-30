@@ -1,0 +1,42 @@
+{
+  "author": {
+    "id": "au-mvtppqproasa",
+    "keyId": "5bb57b91ba6c",
+    "name": "珊瑚中的吃虎鱼"
+  },
+  "category": "装备",
+  "changelog": "",
+  "conflicts": [],
+  "delisted": false,
+  "description": "修复铁骑射程判定不一致（22km 点 F1 被拒/绿圈闪）、补齐 17 艘旗舰缺失的 fighterTubes、伤害乘数按满编中队规模计算",
+  "displayName": "铁骑/重型无人机伤害修复",
+  "downloadUrls": [
+    {
+      "mirror": "github",
+      "priority": 1,
+      "url": "https://github.com/kokoandqiong/evejs-mod-evejs-tie-qi-zhong-wu-shang-hai-xiu-fu/releases/download/v1.0.0/evejs-tie-qi-zhong-wu-shang-hai-xiu-fu-1.0.0.zip"
+    }
+  ],
+  "evejsVersions": [
+    "261028.x"
+  ],
+  "featured": false,
+  "highlights": [],
+  "history": [],
+  "id": "evejs-tie-qi-zhong-wu-shang-hai-xiu-fu",
+  "publishedAt": "2026-10-30",
+  "readme": [
+    "修掉 **铁骑（Fighter）在 261028.1 上的三个真实缺陷**，外加补齐 SDE 缺失的发射管属性。\n**纯运行期内存补丁** —— 磁盘上 `server/src` 一个字节都不改。改完需**重启服务端**。",
+    "适用：EveJS **261028.x** · `kind: loader` · 类别：装备",
+    "---"
+  ],
+  "repo": "https://github.com/kokoandqiong/evejs-mod-evejs-tie-qi-zhong-wu-shang-hai-xiu-fu",
+  "requiresRestart": true,
+  "sha256": "4a748ae88931ee04ec6b94284ec30004f494acca44094ff6e48d488bebe20b16",
+  "sizeBytes": 27630,
+  "tags": [
+    "聊天",
+    "新手"
+  ],
+  "version": "1.0.0"
+}
